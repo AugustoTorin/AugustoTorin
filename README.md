@@ -29,7 +29,7 @@ Fora do ambiente profissional, venho aprofundando meus conhecimentos em lógica 
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=html,css,git,github" alt="Tecnologias" />
 
 </div>
 
@@ -37,7 +37,7 @@ Fora do ambiente profissional, venho aprofundando meus conhecimentos em lógica 
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=cs" alt="C Sharp" />
+  <img src="https://skillicons.dev/icons?i=js,react,python,cs" alt="Estudos" />
 
   <p>Estudando C# e aprofundando meus conhecimentos em desenvolvimento de software.</p>
 
